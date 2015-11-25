@@ -1,0 +1,12 @@
+@keyframes left-hand-animation {
+    0%   {margin-top: 7px;}
+    25%  {margin-top: -4px;}
+    50%  {margin-top: -20px;}
+    100% {margin-top: 7px;}
+}
+@keyframes keyboard-animation {
+    0%   {rotation: 0deg}
+    25%  {rotation: 5deg}
+    50%  {rotation: 0deg}
+    100% {rotation: 355deg}
+}
