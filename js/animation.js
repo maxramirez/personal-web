@@ -36,7 +36,7 @@ function throwWord(){
         $flyingWord.remove();
     });
 }
-myTimer=setInterval(throwWord,700);
+myTimer=setInterval(throwWord,1200);
 function showCode() {
     var spans = '<span>' + str.split('').join('</span><span>') + '</span>';
     $(spans).hide().appendTo('.css-typing').each(function (i) {
