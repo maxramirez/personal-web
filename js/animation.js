@@ -22,16 +22,16 @@ function throwWord(){
     var color=colors[Math.floor(Math.random()*colors.length)]
     var word=keywords[number];
     var tSize=Math.floor((Math.random() * 8) + 15);
-    var finalX=Math.floor(Math.random()*400)-300;
-    var finalY=Math.random()>0.5?200:-200;
+    var finalY=Math.floor(Math.random()*500)-500;
+    var finalX=Math.random()>0.5?-200:60;
     $(".word-origin").append("<span class='flying-word' id='word-"+ ++counter +"'>"+word+"<span>");
     var $flyingWord = $("#word-" + counter);
     $flyingWord.css("color",color);
     $flyingWord.css("font-size",tSize+"px");
     $flyingWord.css("font-weight", "bold");
     $flyingWord.velocity({
-        left: finalY+'px',
-        top: finalX+'px'
+        translateX: finalX+'px',
+        translateY: finalY+'px'
     }, 3000, 'linear',function(){
         $flyingWord.remove();
     });
