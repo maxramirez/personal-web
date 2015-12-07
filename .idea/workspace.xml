@@ -2,11 +2,10 @@
 <project version="4">
   <component name="ChangeListManager">
     <list default="true" id="2e5abb89-e82a-4f6c-99ba-ddfecc4d4544" name="Default" comment="">
-      <change type="MOVED" beforePath="C:\Users\Maximiliano\Documents\personal-web\img\portfolio\cabin.png" afterPath="$PROJECT_DIR$/img/portfolio/biopass.png" />
-      <change type="MOVED" beforePath="C:\Users\Maximiliano\Documents\personal-web\img\portfolio\submarine.png" afterPath="$PROJECT_DIR$/img/portfolio/geovictoria.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/img/profile.png" afterPath="$PROJECT_DIR$/img/profile.png" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/js/animation.js" afterPath="$PROJECT_DIR$/js/animation.js" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/css/freelancer.css" afterPath="$PROJECT_DIR$/css/freelancer.css" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/chilequiencompra.png" />
+      <change type="NEW" beforePath="" afterPath="$PROJECT_DIR$/img/portfolio/intellimedia.png" />
+      <change type="DELETED" beforePath="C:\Users\Maximiliano\Documents\personal-web\img\portfolio\cake.png" afterPath="" />
+      <change type="DELETED" beforePath="C:\Users\Maximiliano\Documents\personal-web\img\portfolio\game.png" afterPath="" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/index.html" afterPath="$PROJECT_DIR$/index.html" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
@@ -87,8 +86,8 @@
       <file leaf-file-name="index.html" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/index.html">
           <provider selected="true" editor-type-id="text-editor">
-            <state vertical-scroll-proportion="0.09288299" vertical-offset="5669" max-vertical-offset="7208">
-              <caret line="384" column="33" selection-start-line="384" selection-start-column="33" selection-end-line="384" selection-end-column="33" />
+            <state vertical-scroll-proportion="2.8299155" vertical-offset="0" max-vertical-offset="7208">
+              <caret line="138" column="32" selection-start-line="138" selection-start-column="32" selection-end-line="138" selection-end-column="32" />
               <folding>
                 <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
                 <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
@@ -604,8 +603,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/index.html">
       <provider selected="true" editor-type-id="text-editor">
-        <state vertical-scroll-proportion="0.09288299" vertical-offset="5669" max-vertical-offset="7208">
-          <caret line="384" column="33" selection-start-line="384" selection-start-column="33" selection-end-line="384" selection-end-column="33" />
+        <state vertical-scroll-proportion="2.8299155" vertical-offset="0" max-vertical-offset="7208">
+          <caret line="138" column="32" selection-start-line="138" selection-start-column="32" selection-end-line="138" selection-end-column="32" />
           <folding>
             <element signature="n#footer#0;n#body#0;n#html#0;n#!!top" expanded="false" />
             <element signature="n#div#0;n#body#0;n#html#0;n#!!top" expanded="false" />
