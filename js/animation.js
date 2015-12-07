@@ -6,17 +6,17 @@ var keywords=["	abstract	", "	assert	", "	boolean	", "	break	", "	byte	", "	case
 var colors=["red","blue","yellow","white","black","orange"];
 var counter=1;
 var str = 'Lorem ipsum dolor sit amet, consetetur sadipscing \n elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet. Lorem ipsum dolor sit amet, consetetur sadipscing elitr, sed diam nonumy eirmod tempor invidunt ut labore et dolore magna aliquyam erat, sed diam voluptua. At vero eos et accusam et justo duo dolores et ea rebum. Stet clita kasd gubergren, no sea takimata sanctus est Lorem ipsum dolor sit amet.';
-$("#max").hover(function(){
-    shouldStop=false;
-    console.log("in");
-    $("header").css("background","black");
-    showCode();
-}, function () {
-    shouldStop=true;
-    $('.css-typing').empty();
-    $("header").css("background","#18bc9c");
-    console.log("out");
-});
+//$("#max").hover(function(){
+//    shouldStop=false;
+//    console.log("in");
+//    $("header").css("background","black");
+//    showCode();
+//}, function () {
+//    shouldStop=true;
+//    $('.css-typing').empty();
+//    $("header").css("background","#18bc9c");
+//    console.log("out");
+//});
 function throwWord(){
     var number = Math.floor(Math.random() * keywords.length);
     var color=colors[Math.floor(Math.random()*colors.length)]
